@@ -20,4 +20,6 @@ The questions that this project attempts to answer is:<br>
 
 ## Why is this project important?
 The following images explain why it is important to enhance data collection and processing in the construction industry. <br>
-[]()
+
+![](https://github.com/natnew/Python-Projects-Construction-Data-Analysis/blob/main/Autodesk%20Data%20REPORT.JPG)
+***Taken from the Autodesk Data Advantage Report. Jan 2022***
