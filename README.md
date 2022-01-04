@@ -30,5 +30,11 @@ The following images explain why it is important to enhance data collection and 
 * Climate Classification Tool
 * Computational Fluid Dynamics tool
 
+## Talks
+
+## Blog
+
+## CV
+
 You can also visit my [Python](https://github.com/natnew/100-Python-Projects), [SQL](https://github.com/natnew/SQL-Cheatsheet) and [HTLM & CSS](https://github.com/natnew/100-HTML-And-CSS-Projects) projects.
 
