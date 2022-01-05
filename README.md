@@ -24,6 +24,9 @@ The following images explain why it is important to enhance data collection and 
 ![](https://github.com/natnew/Python-Projects-Construction-Data-Analysis/blob/main/Autodesk%20Data%20REPORT.JPG)
 ***Taken from the Autodesk Data Advantage Report. Jan 2022***
 
+![](https://github.com/natnew/Python-Projects-Construction-Data-Analysis/blob/main/DIGITAL%20MATURITY%20LEVEL%20BIM.png)
+***Taken from the Autodesk University. Jan 2022***
+
 ## Other Projects
 * Life Cycle Assessment Tool
 * Carbon Calculator
