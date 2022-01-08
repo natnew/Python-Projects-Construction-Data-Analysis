@@ -33,6 +33,9 @@ The following images explain why it is important to enhance data collection and 
 * Climate Classification Tool
 * Computational Fluid Dynamics tool
 
+## Notebooks
+[Week 7 - Independent Learning Task A](https://github.com/natnew/Python-Projects-Construction-Data-Analysis/blob/main/Data_Science_BootCamp_Working_With_Data_in_Python_Week_7.ipynb)
+
 ## Talks
 
 ## Blog
