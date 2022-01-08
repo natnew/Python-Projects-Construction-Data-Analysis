@@ -36,7 +36,7 @@ The following images explain why it is important to enhance data collection and 
 ## Notebooks
 [Week 7 - Independent Learning Task A](https://github.com/natnew/Python-Projects-Construction-Data-Analysis/blob/main/Data_Science_BootCamp_Working_With_Data_in_Python_Week_7.ipynb)<br>
 [Week 7 - Independent Learning Task B](https://github.com/natnew/Python-Projects-Construction-Data-Analysis/blob/main/Data_Science_BootCamp_Working_With_Data_in_Python_Week_7_Task_B.ipynb)<br>
-[Week 8 ](https://github.com/natnew/Python-Projects-Construction-Data-Analysis/blob/main/Data_Science_BootCamp_Working_With_Data_in_Python_Week_8.ipynb)<br>
+[Week 8 - Graphical Exploratory Data Analysis](https://github.com/natnew/Python-Projects-Construction-Data-Analysis/blob/main/Data_Science_BootCamp_Working_With_Data_in_Python_Week_8.ipynb)<br>
 [Week 9 - Classification Models]()<br>
 [Week 9 - Regression Models]()<br>
 [Week 10 - Project Planning]()<br>
