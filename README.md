@@ -6,10 +6,17 @@ This repository analyses and visualises construction data in order to provide in
 
 ## Types of Data
 A variety of data can be exported from a construction project and used to monitor IoT (Internet of Things) devices, project programs, and budgets, and site conditions, just to name a few. The data collected in this project is:<br>
-*
-*
-*
-*
+* Design Data (COBie & IFC)
+* Business and Economy
+* Town and Cities
+* Mapping
+* Society
+* Environment
+* Transport
+* Crome and Justice
+* Defence
+* Health
+* Education
 
 ## Questions
 The questions that this project attempts to answer is:<br>
@@ -48,11 +55,20 @@ The following images explain why it is important to enhance data collection and 
 [Week 10 - Project Planning]()<br>
 [Week 14 - Presentation]()<br>
 
+## Resources
+[BIM Resources](https://github.com/natnew/BIM-Resources)<br>
+[Awesom List](https://github.com/natnew/Awesome)
+
+
 ## Talks
 
+
 ## Blog
+[What Does Data Science Have To Do With Construction?](https://github.com/natnew/Construction)<br>
+[My BIM ToolBox](https://github.com/natnew/My-BIM-Toolbox)<br>
 
 ## CV
+[Linkedin](https://www.linkedin.com/in/natasha-newbold/)<br>
 
 You can also visit my [Python](https://github.com/natnew/100-Python-Projects), [SQL](https://github.com/natnew/SQL-Cheatsheet) and [HTLM & CSS](https://github.com/natnew/100-HTML-And-CSS-Projects) projects.
 
