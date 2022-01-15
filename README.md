@@ -43,7 +43,7 @@ The following images explain why it is important to enhance data collection and 
 ## Notebooks
 [Week 1 - Profile, CV, Projects](https://www.linkedin.com/in/natasha-newbold/)<br>
 [Week 2 - How To Think Like A Porgrammer]()<br>
-[Week 3 - A Sytems Approach, Data Exploratino and descriptive Analytics, BIM data]()<br>
+[Week 3 - A Sytems Approach, Data Exploratino and descriptive Analytics, BIM data](https://github.com/natnew/A-Systems-Approach/blob/main/README.md)<br>
 [Week 4 - COBie Data](https://github.com/natnew/COBie-Data/blob/main/README.md)<br>
 [Week 5 - Microsoft]()<br>
 [Week 6 - Data Extraction From A Design Model]()<br>
